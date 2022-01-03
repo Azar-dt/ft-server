@@ -1,0 +1,12 @@
+node_modules/
+
+/src/test/
+
+/dist/
+
+/.env
+
+/yarn.lock
+/yarn-error.log
+
+/package-lock.json
